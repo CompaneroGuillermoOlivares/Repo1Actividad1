@@ -1,0 +1,9 @@
+# En la siguiente parrafo, indicaremios el fichero configuracion_local.sh que esta en la misma ruta que este fichero.
+configuracion_local.sh
+
+#En este parrafo, indicaremos la carpeta archivos_personales y su contenido
+archivos_personales/
+
+#En este parrafo indicaremos como limitar ficheros por su extension.
+*.psd
+*.xcf
